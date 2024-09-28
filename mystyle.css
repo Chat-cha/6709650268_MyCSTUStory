@@ -1,0 +1,49 @@
+*{margin: 0px;
+    padding: 0px; 
+    box-sizing: border-box;}
+  body { width: 100%;
+        font-family: 'Courier New', Courier, monospace;
+        text-align: left;
+        font-size: smaller;}   
+  
+  
+  Header {background-color: rgb(255, 88, 130);
+      border: 2px solid rgb(255, 255, 255);
+      text-align: center;
+      padding: 10px ;
+      width: 100%;
+      font-size: xx-large;}
+  
+  
+  Nav {background-color: rgb(255, 168, 190);
+      border: 2px solid rgb(255, 255, 255);
+      padding: 10px;
+      float: left;
+      width: 20%;
+      height: 1200px;}
+  
+  
+  Article{background-color: rgb(248, 231, 170);
+      border: 2px solid rgb(255, 255, 255);
+      padding: 10px;
+      float: left;
+      width: 80%;
+      height: 1200px;}
+
+
+
+table {background-color: rgb(255, 254, 219);
+      width: 80%;
+      padding: 10px;
+      border: 5px ;
+      }
+  
+      
+  
+  
+  Footer{background-color: rgb(245, 244, 240);
+      border: 1px solid rgb(255, 255, 255);
+      text-align: center;
+      padding: 10px;
+      width: 100%;
+      clear: both;}
