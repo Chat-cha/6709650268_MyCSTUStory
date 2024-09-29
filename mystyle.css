@@ -71,7 +71,7 @@ article p { font-weight: 600;
     font-size: large;
 }
 
-figure {
+ article figure {
     font-weight: 600;
     font-family: 'Courier New', Courier, monospace;
     border-radius: 20px;
